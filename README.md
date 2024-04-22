@@ -13,6 +13,7 @@ Package를 구성함.
 
 ## 의문사항
 - 다른 사용자가 작성한 security 에서 자주 보이는 role은 왜 필요한가?
+- WebSecurityConfig 의 permitAll()을 해야지만 api가 통신이 되는건가?
 - SecurityContextHolder 에 사용자 정보를 등록 할 경우 무상태성(Stateless)이 유지 되는가?
 - 객체 지향(캡술화, 상속화, 다형성, 추상화)이 제대로 되었는가?
 - 도대체 객체 지향은 무엇인가?????
